@@ -16,6 +16,7 @@ set(DISSECTOR_SRC
 	packet-ams.c
 	packet-ecatmb.c
 	packet-esl.c
+ 	packet-hsl.c
 	packet-ethercat-datagram.c
 	packet-ethercat-frame.c
 	packet-ioraw.c
